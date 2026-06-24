@@ -1,7 +1,5 @@
 # Kreta 2026 🇬🇷
 
-Overraskelsesside til broren min — Kreta-tur sommeren 2026.
-
 ## Slik deployer du på GitHub Pages
 
 1. Last opp `index.html` til dette repoet
